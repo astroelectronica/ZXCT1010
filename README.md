@@ -1,2 +1,2 @@
-# ZXCT1010
-Micro-Power High-Side Current Monitor w/ Improved Offset
+# ZXCT1009
+ Micro-Power High-Side Current Monitor Portable Equip
